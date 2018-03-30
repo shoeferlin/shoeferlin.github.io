@@ -1,0 +1,63 @@
+body{
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+body a.hover{
+	color: #514D57;
+}
+
+
+
+.col-xs-12, .col-md-12, .col-sd-12, .col-lg-12{
+	text-align: justify;
+}
+
+#banner{
+	background-image: url(images/Banner_Rainy_Departure.jpg);
+	background-size: cover;
+	padding: 300px 0;
+	text-align: center;
+	filter: brightness(100%);
+	margin-bottom: 35px;
+	height: 100vh
+}
+
+#banner h1{
+	font-size: 80px;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bold;
+	color: white;
+}
+
+#banner a{
+	font-size: 30px;
+	font-family: 'IBM Plex Mono', monospace;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: #514D57;
+	box-shadow: 2px 2px 1px #BEB9BD;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+
+#banner a:hover {
+	background-color: #7789AB;
+}
+
+#banner p{
+	font-size: 30px;
+	font-family: 'IBM Plex Mono', monospace;
+}
+
+.footer{
+	background-color: #514D57;
+	color: white;
+	padding: 3px;
+	margin-top: 10px;
+}
+
+.pictures{
+}
