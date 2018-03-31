@@ -25,14 +25,14 @@ body a.hover{
 }
 
 #banner h1{
-	font-size: 80px;
+	font-size: 50px;
 	font-family: 'Shadows Into Light', cursive;
 	font-weight: bold;
 	color: white;
 }
 
 #banner a{
-	font-size: 30px;
+	font-size: 20px;
 	font-family: 'IBM Plex Mono', monospace;
 	border: 1px solid white;
 	border-radius: 5px;
@@ -48,7 +48,7 @@ body a.hover{
 }
 
 #banner p{
-	font-size: 30px;
+	font-size: 20px;
 	font-family: 'IBM Plex Mono', monospace;
 }
 
