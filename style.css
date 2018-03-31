@@ -17,7 +17,7 @@ body a.hover{
 #banner{
 	background-image: url(images/Banner_Rainy_Departure.jpg);
 	background-size: cover;
-	padding: 300px 0;
+	padding: 250px 0;
 	text-align: center;
 	filter: brightness(100%);
 	margin-bottom: 35px;
